@@ -124,7 +124,7 @@ text-align: center;
 </style>
 <body>
 <nav class="navbar navbar-expand-md navbar-dark navbar-bccolor">
-  <a class="navbar-brand" href="Home.jsp">Home  | </a>
+  <a class="navbar-brand" href="Home.jsp">Find My Bills | </a>
  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarnav" aria-controls="navbarnav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -137,10 +137,10 @@ text-align: center;
 		      		<a class = "nav-link" id="profile" href="Profile.jsp">Profile</a>
 	      		</li>
 	      		<li class="nav-item">
-		      		<a class = "nav-link" id="login"></a>
+		      		<a class = "nav-link" id="login">Login</a>
 	      		</li>
 	      		<li class="nav-item">
-		      		<a class = "nav-link" id="signup"></a>
+		      		<a class = "nav-link" id="signup">Sign Up</a>
 	      		</li>
 	    	</ul>
 	 </div>
@@ -156,7 +156,7 @@ text-align: center;
 	<div class ="row">
 		
 		<div class ="col col-12 col-md-4">
-			<img src = "image/Sang.jpg" class="rounded-circle" alt = "Sang Kim">
+			<img src = "image/sang.png" class="rounded-circle" alt = "Sang Kim" >
 			<h2>Sang Kim</h2>
 			<h5>Master of JDBC</h5>
 			<p> Sang Kim is a awesome guy majoring Computer Science and Business Administration at University of Southern California. He likes to play with JDBC on his free-time.</p>
