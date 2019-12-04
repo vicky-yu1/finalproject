@@ -139,7 +139,7 @@ if(message == null || message == ""){
 
 <div class="container">
 		<div class="row">
-			<h1 class="col-12 mt-4"> <img src ="image/House.jpg"/></h1>
+			<h1 class="col-12 mt-4"> <img src ="image/Transparent_logo.png"/></h1>
 		</div> 
 </div>
 <br>
